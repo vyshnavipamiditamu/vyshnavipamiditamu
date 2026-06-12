@@ -1,7 +1,5 @@
 Hey there! I'm a passionate Software Engineer specializing in **AI/ML systems**, **cloud-native architectures**, and **distributed systems** and a proud Aggie pursuing my Maters in Computer Science at Texas A&M University.
 
----
-
 ## 🚀 About Me
 
 I'm an Engineer with a strong foundation in AI/ML and cloud infrastructure. With experience at Intel Corporation and a love for learning something new every day, I enjoy solving complex problems and building things that create real impact. Currently channeling that into research and projects at Texas A&M.
@@ -34,8 +32,6 @@ I'm an Engineer with a strong foundation in AI/ML and cloud infrastructure. With
 - **SQL**: MySQL, PostgreSQL, SQLite
 - **NoSQL**: MongoDB
 - **Vector**: Pinecone, pgvector
-
----
 
 ## 📬 Connect With Me
 

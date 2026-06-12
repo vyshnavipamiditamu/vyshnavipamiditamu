@@ -4,9 +4,9 @@ Hey there! I'm a passionate Software Engineer specializing in **AI/ML systems**,
 
 I'm an Engineer with a strong foundation in AI/ML and cloud infrastructure. With experience at **Intel Corporation** and a love for learning something new every day, I enjoy solving complex problems and building things that create real impact. Currently channeling that into research and projects at Texas A&M.
 
-  - 🎓 **M.S. in Computer Science** - Texas A&M University, (GPA: 3.33/4.0, Aug 2025 – May 2027)
-  - 🎓 **Bachelor's in Computer Science & Engineering** - KL University (GPA: 3.77/4.0, Aug 2021 – Apr 2025)
-  - 💼 **Software Engineer Intern** - Intel Corporation (May 2024 – Apr 2025)
+  - 🎓 **M.S. in Computer Science** - Texas A&M University, (GPA: 3.33/4.0, Aug 2025 - May 2027)
+  - 🎓 **Bachelor's in Computer Science & Engineering** - KL University (GPA: 3.77/4.0, Aug 2021 - Apr 2025)
+  - 💼 **Software Engineer Intern** - Intel Corporation (May 2024 - Apr 2025)
   - 📄 **Published Researcher** - IEEE 2024
 
 ## 💻 Technical Skills
